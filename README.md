@@ -1,2 +1,2 @@
 # codequestoria
-Strona do rozwiązywania zadań z programowania.
+Solve JavaScript, PHP, Python code problems!
